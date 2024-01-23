@@ -140,7 +140,7 @@
         }
       },
       tooltips: {
-        enabled: false
+        enabled: true
       }
   
     };
